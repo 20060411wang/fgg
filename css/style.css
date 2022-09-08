@@ -1,0 +1,22 @@
+/* 去掉页面内外边距 */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* 添加版心 */
+.w {
+    width: 1226px;
+    margin: auto;
+}
+
+/* 去掉li的样式 */
+li {
+    list-style: none;
+}
+
+/* 去掉a下划线修改颜色 */
+a {
+    text-decoration: none;
+    color: black;
+}
